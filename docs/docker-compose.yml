@@ -1,0 +1,17 @@
+services:
+  db:
+    container_name: saeon-sql-test-db
+    build:
+      context: .
+    networks:
+      - net
+    ports:
+      - "7890:5432"
+    environment:
+      - POSTGRES_DB=test
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=pass
+
+networks:
+  net:
+    name: saeon-sql-test-net

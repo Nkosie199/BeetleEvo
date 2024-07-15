@@ -1,0 +1,122 @@
+[
+    {
+        "phase": "bust",
+        "populations": {
+            "Red": 1638,
+            "Green": 1247,
+            "Blue": 2397
+        }
+    },
+    {
+        "phase": "bust",
+        "populations": {
+            "Red": 1359,
+            "Green": 922,
+            "Blue": 2133
+        }
+    },
+    {
+        "phase": "bust",
+        "populations": {
+            "Red": 1127,
+            "Green": 682,
+            "Blue": 1898
+        }
+    },
+    {
+        "phase": "boom",
+        "populations": {
+            "Red": 935,
+            "Green": 504,
+            "Blue": 1689
+        }
+    },
+    {
+        "phase": "boom",
+        "populations": {
+            "Red": 1093,
+            "Green": 635,
+            "Blue": 1874
+        }
+    },
+    {
+        "phase": "boom",
+        "populations": {
+            "Red": 1278,
+            "Green": 800,
+            "Blue": 2080
+        }
+    },
+    {
+        "phase": "boom",
+        "populations": {
+            "Red": 1495,
+            "Green": 1008,
+            "Blue": 2308
+        }
+    },
+    {
+        "phase": "bust",
+        "populations": {
+            "Red": 1749,
+            "Green": 1270,
+            "Blue": 2561
+        }
+    },
+    {
+        "phase": "bust",
+        "populations": {
+            "Red": 1451,
+            "Green": 939,
+            "Blue": 2279
+        }
+    },
+    {
+        "phase": "bust",
+        "populations": {
+            "Red": 1204,
+            "Green": 694,
+            "Blue": 2028
+        }
+    },
+    {
+        "phase": "boom",
+        "populations": {
+            "Red": 999,
+            "Green": 513,
+            "Blue": 1804
+        }
+    },
+    {
+        "phase": "boom",
+        "populations": {
+            "Red": 1168,
+            "Green": 646,
+            "Blue": 2002
+        }
+    },
+    {
+        "phase": "boom",
+        "populations": {
+            "Red": 1366,
+            "Green": 813,
+            "Blue": 2222
+        }
+    },
+    {
+        "phase": "bust",
+        "populations": {
+            "Red": 1598,
+            "Green": 1024,
+            "Blue": 2466
+        }
+    },
+    {
+        "phase": "bust",
+        "populations": {
+            "Red": 1326,
+            "Green": 757,
+            "Blue": 2194
+        }
+    }
+]
